@@ -3,3 +3,5 @@ Those who have time and computational power to perform brute force attack on loc
 
 The python script will ask for the characters to use in password, minimum length of password to use and maximum length of password to use. Based on the input, the python will generate password and run powershell script.
 
+Note: No password file will be created.
+
